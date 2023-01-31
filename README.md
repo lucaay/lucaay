@@ -1,8 +1,9 @@
-Hi 👋 My name is Luca Sergiu
-============================React Developer---------------
-As a highly motivated and results-driven person, I am experienced in software development. With years of experience as a programmer I have acquired a strong set of skills and knowledge in software development methodologies, and web technologies. My approach to programming is methodical and I am able to work efficiently and effectively under pressure. I have a strong understanding of programming languages and I have experience working with web development technologies. I am always eager to learn new technologies and improve my skills to deliver better solutions and advance my career as a developer.* 
-🌍  I'm based in Romania* 
-✉️  You can contact me at [sergiuluca2001@gmail.com](mailto:sergiuluca2001@gmail.com)
+### Hi 👋 My name is Luca Sergiu
+### React Developer
+As a highly motivated and results-driven person, I am experienced in software development. With years of experience as a programmer I have acquired a strong set of skills and knowledge in software development methodologies, and web technologies. My approach to programming is methodical and I am able to work efficiently and effectively under pressure. I have a strong understanding of programming languages and I have experience working with web development technologies. I am always eager to learn new technologies and improve my skills to deliver better solutions and advance my career as a developer.
+
+* 🌍  I'm based in Romania
+* ✉️  You can contact me at [sergiuluca2001@gmail.com](mailto:sergiuluca2001@gmail.com)
 
 <a href="https://www.github.com/lucaay" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lucaay?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -20,5 +21,3 @@ src="https://img.shields.io/github/followers/lucaay?logo=github&style=for-the-ba
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/lucaay"><img src="https://github-readme-stats.vercel.app/api?username=lucaay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucaay's GitHub stats" /></a>
-
-<a href="https://github.com/lucaay" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
