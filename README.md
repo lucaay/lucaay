@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Luca Sergiu
 ### React Developer
-As a highly motivated and results-driven person, I am experienced in software development. With years of experience as a programmer I have acquired a strong set of skills and knowledge in software development methodologies, and web technologies. My approach to programming is methodical and I am able to work efficiently and effectively under pressure. I have a strong understanding of programming languages and I have experience working with web development technologies. I am always eager to learn new technologies and improve my skills to deliver better solutions and advance my career as a developer.
+As a highly motivated and results-driven person, I am experienced in software development. With 2 years of experience as a programmer I have acquired a strong set of skills and knowledge in software development methodologies, and web technologies. My approach to programming is methodical and I am able to work efficiently and effectively under pressure. I have a strong understanding of programming languages and I have experience working with web development technologies. I am always eager to learn new technologies and improve my skills to deliver better solutions and advance my career as a developer.
 
 * 🌍  I'm based in Romania
 * ✉️  You can contact me at [sergiuluca2001@gmail.com](mailto:sergiuluca2001@gmail.com)
